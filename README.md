@@ -1,11 +1,34 @@
-- 👋 Hi, I’m Mina Kim. @minah0523
--     안녕하세요. 백엔드 주니어 개발자 김민아입니다.
-- 👀 I’m interested in programming and web developing.
--     프로그래밍과 웹개발 공부를 즐깁니다.
-- 🌱 I’m currently using Spring Framework, Java, JSP, Javascript, JQuery, Oracle SQL etc.
--     현재 스프링 프레임워크 기반 자바 프로그래밍을 심도있게 공부하고있으며 
--     Spring, Java, JSP, JavaScript, JQuery, Oracle SQL 사용이 가능합니다.
-- 💞️ I’m looking for a job as a backend developer at the moment. 
--     현재 백엔드 개발자로 취업준비중입니다.
-- 📫 Please feel free to contact me if you want to disscuss something with me:) (minahnet@naver.com)
--     문의사항은 이메일로 연락주세요:) (minahnet@naver.com)
+
+### About Me
+
+⚡   Junior Backand Developer
+
+
+
+### Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![OracleSQL](https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![JQuery](https://img.shields.io/badge/-jquery-black?style=flat-square&logo=jquery&link=https://github.com/9m1i9n1)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+Java, Spring, OracleSQL, JSP, AJAX, JavaScript, JQuery, Amazon AWS 를 사용하여 개발하고 있습니다.
+
+
+
+![Mina's github stats](https://github-readme-stats.vercel.app/api?username=minah0523&show_icons=true&theme=cobalt&hide=contribs,prs)
+
+
+
+
+
+### Contact
+
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=minah0523@gmail.com)
+[![blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://annyeongworld.tistory.com/)
