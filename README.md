@@ -20,7 +20,8 @@
 ![JQuery](https://img.shields.io/badge/-jquery-black?style=flat-square&logo=jquery&link=https://github.com/9m1i9n1)
 ![React](https://img.shields.io/badge/-react-blue?style=flat-square&logo=React&logoColor=white)
 
-Java, Spring, OracleSQL, JSP, AJAX, JavaScript, JQuery, Amazon AWS, React 사용합니다.
+Java, Spring, OracleSQL, JSP, AJAX, JavaScript, JQuery, Amazon AWS, React 를 사용합니다.
+
 현재 JavaScript, React를 사용하는 프론트엔드 개발자로 일하고 있습니다.
 
 
