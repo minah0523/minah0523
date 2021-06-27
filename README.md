@@ -1,7 +1,9 @@
 
 ### About Me
 
-⚡   Junior Backand Developer
+:computer: Full Stack Junior Developer
+:peach: Working for Peachy as a Frontend Developer at the moment
+
 
 
 
@@ -12,13 +14,14 @@
 ![OracleSQL](https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![JQuery](https://img.shields.io/badge/-jquery-black?style=flat-square&logo=jquery&link=https://github.com/9m1i9n1)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![JQuery](https://img.shields.io/badge/-jquery-black?style=flat-square&logo=jquery&link=https://github.com/9m1i9n1)
+![React](https://img.shields.io/badge/-react-blue?style=flat-square&logo=React&logoColor=white)
 
-Java, Spring, OracleSQL, JSP, AJAX, JavaScript, JQuery, Amazon AWS 를 사용하여 개발하고 있습니다.
+Java, Spring, OracleSQL, JSP, AJAX, JavaScript, JQuery, Amazon AWS, React 사용합니다.
+현재 JavaScript, React를 사용하는 프론트엔드 개발자로 일하고 있습니다.
 
 
 
