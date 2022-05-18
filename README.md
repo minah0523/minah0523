@@ -28,13 +28,6 @@
 Java, Spring, OracleSQL, JSP, AJAX, JavaScript, JQuery, Amazon AWS, React 를 사용합니다.
 
 
-
-![Mina's github stats](https://github-readme-stats.vercel.app/api?username=minah0523&show_icons=true&theme=cobalt&hide=contribs,prs)
-
-
-
-
-
 ### Contact
 
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=minah0523@gmail.com)
