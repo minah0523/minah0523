@@ -3,7 +3,7 @@
 
 :computer: Full Stack Junior Developer
 
-:peach: Working for Peachy as a Frontend Developer at the moment
+:peach: Working for Canlab as a Frontend Developer at the moment
 
 
 
