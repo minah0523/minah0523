@@ -2,6 +2,11 @@
 
 :computer: Frontend Developer | Full Stack Developer
 
+I am currently working as a front-end developer using JavaScript, TypeScript, and React.
+I specialize in designing reusable components, managing state, integrating APIs, and optimizing user interfaces.
+With experience across a variety of domains — including community platforms, e-commerce, Web 3.0, public institutions, education, and healthcare —
+I focus on building user interfaces that align with both the project’s goals and the user experience.
+
 현재 JavaScript, TypeScript, React를 기반으로 프론트엔드 개발을 하고 있으며,  
 재사용 가능한 컴포넌트 설계, 상태 관리, API 연동 및 UI 최적화에 강점을 가지고 있습니다.  
 커뮤니티 플랫폼, 커머스, WEB3.0, 공공기관, 교육, 헬스케어 등 다양한 도메인의 프로젝트를 수행하며  
